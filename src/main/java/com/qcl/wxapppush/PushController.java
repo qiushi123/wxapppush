@@ -34,8 +34,8 @@ public class PushController {
 
         //2,设置模版信息（keyword1：类型，keyword2：内容）
         List<WxMaTemplateData> templateDataList = new ArrayList<>(2);
-        WxMaTemplateData data1 = new WxMaTemplateData("keyword1", "获取老师微信", "#FFA500");
-        WxMaTemplateData data2 = new WxMaTemplateData("keyword2", "2501902696", "0xffFFA500");
+        WxMaTemplateData data1 = new WxMaTemplateData("keyword1", "获取老师微信");
+        WxMaTemplateData data2 = new WxMaTemplateData("keyword2", "2501902696");
         templateDataList.add(data1);
         templateDataList.add(data2);
 
