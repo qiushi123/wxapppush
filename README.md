@@ -1,4 +1,4 @@
-# wxapppush
+### 视频讲解地址：https://edu.csdn.net/course/play/23750/268139
 5行代码实现微信小程序模版消息推送 （含推送后台和小程序源码）
 
 > 我们在做小程序开发时，消息推送是不可避免的。今天就来教大家如何实现小程序消息推送的后台和前台开发。源码会在文章末尾贴出来。
@@ -198,7 +198,7 @@ openid o3DoL0Uusu1URBJK0NJ4jD1LrRe0
 
 
 源码链接：[https://github.com/qiushi123/wxapppush](https://github.com/qiushi123/wxapppush)
-
+视频讲解地址：https://edu.csdn.net/course/play/23750/268139
 
 
 
